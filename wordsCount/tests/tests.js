@@ -3,7 +3,7 @@
 (function() {
   'use strict';
     
- var myApp = require('../app/words.js');
+ var myApp = require('../app/app.js');
 
   
   describe("words()", function() {
