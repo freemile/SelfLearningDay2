@@ -1,5 +1,5 @@
 
- // note that jasmine frame work is use to write this test suits   
+ // note that jasmine frame work is use to write this test suits for the wordCount App  
 (function() {
   'use strict';
     
