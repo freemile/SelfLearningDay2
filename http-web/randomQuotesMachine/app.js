@@ -1,7 +1,10 @@
 // - Random quotes application that has the following commands:
-//     - `show-quote  - display a quote
-//     - `next` should be invoked to see the next quote
-//     - `list-quotes` - View a formatted list of available quotes
+
+// - show-a-quote : display a quote
+// - next : should be invoked to see the next quote
+// - list-quotes : View a formatted list of available quotes
+// - list-commands : View all available commands
+
 
 
 
