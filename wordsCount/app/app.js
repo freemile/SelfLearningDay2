@@ -1,5 +1,6 @@
 'use strict'
 
+//wordCount app
 var file = {}
 file.words=function ( data){
     var temp={};
